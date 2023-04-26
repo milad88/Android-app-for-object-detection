@@ -1,0 +1,15 @@
+pandas
+IPython
+matplotlib
+tqdm
+scikit-learn
+kivy
+kivymd
+buildozer
+openvino
+opencv-python
+torch
+psutil
+PyYAML>=5.3.1
+torchvision>=0.8.1
+cython
